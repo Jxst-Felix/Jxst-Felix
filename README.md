@@ -7,7 +7,7 @@ Currently busy with my school works and thesis.
 
 I don't have time to make this README.md fancy just yet but I'll eventually come back and update my README.md with a better entry on it.
 
-# Here are my other interests:
+# Here are my main interests:
 
 ## Programming
 I know C/C++, Java, and Python, currently working on a ML based thesis project using Python. I also know the basics of SQL based databases.
