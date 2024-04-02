@@ -13,3 +13,7 @@ Currently busy with my internship and school works.
 - Git
 - Django
 - PostgreSQL
+
+## Preferred fields
+- Game development
+- Web development (back-end)
