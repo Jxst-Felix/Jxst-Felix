@@ -4,8 +4,7 @@ I'm Felix,\
 Currently busy with my internship and school works.
 
 ## Languages
-- C
-- C++
+- C/C++
 - Java
 - Python
 
@@ -13,6 +12,7 @@ Currently busy with my internship and school works.
 - Git
 - Django
 - PostgreSQL
+- ngrok
 
 ## Preferred fields
 - Game development
