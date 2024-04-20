@@ -8,12 +8,6 @@ Currently busy with my internship and school works.
 - Java
 - Python
 
-## Technologies
-- Git
-- Django
-- PostgreSQL
-- ngrok
-
 ## Preferred fields
 - Game development
 - Web development (back-end)
