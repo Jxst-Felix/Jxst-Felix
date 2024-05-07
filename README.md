@@ -1,13 +1,13 @@
-# Welcome to my README.md
+# **Welcome to my README.md**
 
-I'm Felix,\
-Currently busy with my internship and school works.
+I'm **Felix**,\
+Currently busy with work and school works.
 
-## Languages
+## **Languages**
 - C/C++
 - Java
 - Python
 
-## Preferred fields
+## **Preferred fields**
 - Game development
-- Web development (back-end)
+- Web development _(back-end)_
