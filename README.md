@@ -10,4 +10,4 @@ Currently busy with work and school works.
 
 ## **Preferred fields**
 - Game development
-- Web development _(back-end)_
+- Web development _(backend)_
