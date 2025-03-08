@@ -1,50 +1,41 @@
 # **Welcome to my GitHub Account**
 
-<p style="font-size: 24px;">Hello! I'm <strong>Felix</strong> 👋</p>
+## Hello! I'm **Felix** 👋
 
-<p style="font-size: 16px;">🚀 <strong>Passionate Learner</strong> | 🎮 <strong>Aspiring Game Developer</strong> | 💻 <strong>Software Developer</strong></p>
+A few things that describe me:
+- 🚀 **Passionate Learner**
+- 🎮 **Aspiring Game Developer**
+- 💻 **Software Developer**
 
----
-
-<div>
-  
 | 🌐 Connect with Me |
 |--------------------|
-| <a href="https://www.instagram.com/jx.st_felix?igsh=eWFxcnlyZGRkNGxw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="16"></a> <a href="https://discord.com/users/738338408572911696" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="16"></a> |
+| <a href="https://www.instagram.com/jx.st_felix?igsh=eWFxcnlyZGRkNGxw"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="16"></a> <a href="https://discord.com/users/738338408572911696"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="16"></a> |
 
 <p style="font-size: 14px; margin: 10px 0;">or</p>
 
 | 📧 Contact Me |
 |---------------|
-| <a href="mailto:floresfelixleo.fleurs96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="16"></a> |
+| <a href="mailto:floresfelixleo.fleurs96@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="16"></a> |
 
-</div>
 
 ## 💻 **Developer Information**
-
-<p>While I'm still learning and exploring the world of technology,  
-the following information indicates my current standing as a developer.</p>
+While I'm still learning and exploring the world of technology,  
+the following information indicates my current standing as a developer.
 
 ### 🎯 **Fields of Preference**
-<ul>
-  <li>🎮 Game Development</li>
-  <li>🌐 Web Development <em>(Backend)</em></li>
-</ul>
+- 🎮 Game Development
+- 🌐 Web Development _(Backend)_
 
 ### ⚒️ **Projects**
-<p>Currently, I am working on the following projects to improve my skills. Updates will be posted on the platforms mentioned above.</p>
+Currently, I am working on the following projects to improve my skills. Updates will be posted on the platforms mentioned above.
 
 | 🎮 **Game Development** |
 |-------------------------|
-| **Project:** Isometric Farming Game |
-| **Description:** Inspired by a few games that I have played in the past. |
-| **Major Technologies Used:** <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=sfml&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake" height="16"> |
+| **Project:** Isometric Farming Game<br>**Description:** Inspired by a few games that I have played in the past.<br>**Major Technologies Used:** <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=sfml&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake" height="16"> |
 
 | 🌐 **Web Development** |
 |------------------------|
-| **Project:** Custom Open edX Platform |
-| **Description:** Uses Tutor for managing Open edX instances. |
-| **Major Technologies Used:** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Open%20edX-2D2D2D?style=flat&logo=openedx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Tutor-FFA500?style=flat&logo=edx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="16"> |
+| **Project:** Custom Open edX Platform<br>**Description:** Uses Tutor for managing Open edX instances.<br>**Major Technologies Used:** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Open%20edX-2D2D2D?style=flat&logo=openedx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Tutor-FFA500?style=flat&logo=edx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="16"> |
 
 ### 🚀 **Technologies**
 Technologies I have used in past projects:
