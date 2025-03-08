@@ -7,13 +7,15 @@ A few things that describe me:
 - 🎮 **Aspiring Game Developer**
 - 💻 **Software Developer**
 
-| 🌐 Connect with Me |
+---
+
+| 🌐 Connect with me |
 |--------------------|
 | <a href="https://www.instagram.com/jx.st_felix?igsh=eWFxcnlyZGRkNGxw"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="16"></a> <a href="https://discord.com/users/738338408572911696"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="16"></a> |
 
-<p style="font-size: 14px; margin: 10px 0;">or</p>
+_or_
 
-| 📧 Contact Me |
+| 📧 Contact me |
 |---------------|
 | <a href="mailto:floresfelixleo.fleurs96@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="16"></a> |
 
