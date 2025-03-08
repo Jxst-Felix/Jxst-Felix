@@ -4,31 +4,20 @@
 
 <p style="font-size: 16px;">🚀 <strong>Passionate Learner</strong> | 🎮 <strong>Aspiring Game Developer</strong> | 💻 <strong>Software Developer</strong></p>
 
-<hr>
+---
 
-<div style="text-align: center;">
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; display: inline-block; width: 250px;">
-    <p style="font-size: 16px; margin: 0;"><strong>🌐 Connect with Me</strong></p>
-    <p style="margin-top: 8px;">
-      <a href="https://www.instagram.com/jx.st_felix?igsh=eWFxcnlyZGRkNGxw" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="16">
-      </a>
-      <a href="https://discord.com/users/738338408572911696" target="_blank">
-        <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="16">
-      </a>
-    </p>
-  </div>
+<div>
+  
+| 🌐 Connect with Me |
+|--------------------|
+| <a href="https://www.instagram.com/jx.st_felix?igsh=eWFxcnlyZGRkNGxw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="16"></a> <a href="https://discord.com/users/738338408572911696" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" height="16"></a> |
 
-  <p style="font-size: 14px; margin: 10px 0;">or</p>
+<p style="font-size: 14px; margin: 10px 0;">or</p>
 
-  <div style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; display: inline-block; width: 250px;">
-    <p style="font-size: 16px; margin: 0;"><strong>📧 Contact Me</strong></p>
-    <p style="margin-top: 8px;">
-      <a href="mailto:floresfelixleo.fleurs96@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="16">
-      </a>
-    </p>
-  </div>
+| 📧 Contact Me |
+|---------------|
+| <a href="mailto:floresfelixleo.fleurs96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" height="16"></a> |
+
 </div>
 
 ## 💻 **Developer Information**
@@ -45,37 +34,17 @@ the following information indicates my current standing as a developer.</p>
 ### ⚒️ **Projects**
 <p>Currently, I am working on the following projects to improve my skills. Updates will be posted on the platforms mentioned above.</p>
 
-<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; margin-bottom: 10px; max-width: 500px;">
-  <h4 style="margin: 0;">🎮 <strong>Game Development</strong></h4>
-  <p style="margin: 5px 0;"><strong>Project:</strong> Isometric Farming Game</p>
-  <p style="margin: 5px 0;"><strong>Description:</strong> Inspired by a few games that I have played in the past.</p>
-  <p style="margin: 5px 0;"><strong>Major Technologies Used:</strong> 
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=sfml&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake" height="16">
-  </p>
-</div>
+| 🎮 **Game Development** |
+|-------------------------|
+| **Project:** Isometric Farming Game |
+| **Description:** Inspired by a few games that I have played in the past. |
+| **Major Technologies Used:** <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-SFML-8CC445?style=flat&logo=sfml&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake" height="16"> |
 
-<div style="border: 2px solid #ddd; padding: 15px; border-radius: 10px; max-width: 500px;">
-  <h4 style="margin: 0;">🌐 <strong>Web Development</strong></h4>
-  <p style="margin: 5px 0;"><strong>Project:</strong> Custom Open edX Platform</p>
-  <p style="margin: 5px 0;"><strong>Description:</strong> Uses Tutor for managing Open edX instances.</p>
-  <p style="margin: 5px 0;"><strong>Major Technologies Used:</strong> 
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-Open%20edX-2D2D2D?style=flat&logo=openedx&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-Tutor-FFA500?style=flat&logo=edx&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white" height="16">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="16">
-</p>
-</div>
-
+| 🌐 **Web Development** |
+|------------------------|
+| **Project:** Custom Open edX Platform |
+| **Description:** Uses Tutor for managing Open edX instances. |
+| **Major Technologies Used:** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Open%20edX-2D2D2D?style=flat&logo=openedx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Tutor-FFA500?style=flat&logo=edx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white" height="16"> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="16"> |
 
 ### 🚀 **Technologies**
 Technologies I have used in past projects:
@@ -129,7 +98,6 @@ Technologies I have used in past projects:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-
 ### 📊 GitHub Stats  
 Tracking my progress as I grow as a developer.
 
@@ -137,7 +105,6 @@ Although not impressive yet, watch me improve my GitHub stats over time.
 
 ![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jxst-Felix&show_icons=true&hide_border=true&theme=graywhite)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jxst-Felix&hide_border=true&theme=graywhite)
-
 
 ### 🎨 Extras  
 Expanding my skills in relation to my Game Development journey.  
@@ -149,4 +116,4 @@ Expanding my skills in relation to my Game Development journey.
 
 **Planning to Learn:**  
 ⏳ 3D Modeling  
-⏳ 3D Animation 
+⏳ 3D Animation
