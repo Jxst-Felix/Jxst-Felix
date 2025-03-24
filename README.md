@@ -2,7 +2,7 @@
 
 ## Hello! I'm **Felix** 👋
 
-A few things that describe me:
+Here's a few things that describe me:
 - 🚀 **Passionate Learner**
 - 🎮 **Aspiring Game Developer**
 - 💻 **Software Developer**
