@@ -1,44 +1,11 @@
 <!-- customColorList=0,2,3,4,6,8,12,14,15,18,19,20,21,22,23,24,25,26,28,30& -->
 <div align="center" width="100%" id="header">
   <p>
-    <img
-      src="https://capsule-render.vercel.app/api?
-type=waving&
-color=6C0EFF&
-height=240&
-section=header&
-text=Jxst-Felix+here&
-fontAlignY=36&
-fontSize=48&
-fontColor=FFFFFF&
-fontFamily=monospace&
-desc=Welcome to my Github profile!&
-descSize=16&
-descAlign=58&
-descAlignY=48&
-    "
-      alt="header"
-    />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6C0EFF&height=240&section=header&text=Jxst-Felix+here&fontAlignY=36&fontSize=48&fontColor=FFFFFF&fontFamily=monospace&desc=Welcome to my Github profile!&descSize=16&descAlign=58&descAlignY=48&" alt="header" />
   </p>
 
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com/?
-      size=32&
-      color=6C0EFF&
-      pause=1000&
-      center=true&
-      vCenter=true&
-      width=435&
-      lines=
-        Software+Developer;
-        Fullstack+Developer;
-        Aspiring+Game+Developer;
-        Tech+Community+Founder;
-        Passionate+Learner;
-      "
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.demolab.com/?size=32&color=6C0EFF&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Fullstack+Developer;Aspiring+Game+Developer;Tech+Community+Founder;Passionate+Learner;" alt="Typing SVG" />
   </a>
 
   <img
@@ -241,19 +208,9 @@ Contributions are welcome!
 
 <div align="center" style="margin-top: px;" id="footer">
   <p>
-    <img
-      src="https://capsule-render.vercel.app/api?
-type=waving&
-color=6C0EFF&
-height=160&
-section=footer&
-fontColor=FFFFFF&
-fontFamily=monospace&
-desc=last updated in 2026-06-13&
-descSize=16&
-descAlignY=85&
-      "
-      alt="footer"
-    />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6C0EFF&height=160&
+section=footer&fontColor=FFFFFF&
+fontFamily=monospace&desc=last+updated+in+2026-06-13&
+descSize=16&descAlignY=85&" alt="footer" />
   </p>
 </div>
