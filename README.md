@@ -3,9 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6C0EFF&height=240&section=header&text=Jxst-Felix+here&fontAlignY=36&fontSize=48&fontColor=FFFFFF&fontFamily=monospace&desc=Welcome+to+my+Github+profile!&descSize=16&descAlign=58&descAlignY=48)
 
 <div align="center" width="100%" id="header">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?size=32&color=6C0EFF&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Fullstack+Developer;Aspiring+Game+Developer;Tech+Community+Founder;Passionate+Learner;" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?size=32&color=6C0EFF&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;Fullstack+Developer;Aspiring+Game+Developer;Tech+Community+Founder;Passionate+Learner;" alt="Typing SVG" />
 
   <img
     src="https://komarev.com/ghpvc/?username=Jxst-Felix&color=blueviolet&style=plastic"
@@ -33,9 +31,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jxst-Felix&hide_border=true&theme=graywhite" alt="GitHub Streak">
   </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jxst_Felix&layout=compact&display_format=percent&langs_count=10&hide=yaml,text,other,ini,toml,json,csv" alt="WakaTime Stats">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jxst_Felix&layout=compact&display_format=percent&langs_count=10&hide=yaml,text,other,ini,toml,json,csv" alt="WakaTime Stats">
   </p>
 </div>
 
