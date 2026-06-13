@@ -163,7 +163,7 @@ Currently, I am working on the following projects for my improvement as a develo
 
 ### **Publicly Available**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jxst-Felix&repo=django-pageindex)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jxst-Felix&repo=django-pageindex)](https://github.com/Jxst-Felix/django-pageindex)
 
 > _**Note:**_\
 > _The projects above are in public repositories but not polished yet._
@@ -173,7 +173,7 @@ Currently, I am working on the following projects for my improvement as a develo
 The following are projects that is already available to the public and are ready to use.\
 Contributions are welcome!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jxst-Felix&repo=django-dataclassconf)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jxst-Felix&repo=django-dataclassconf)](https://github.com/Jxst-Felix/django-dataclassconf)
 
 <hr style="margin-top: 48px;" />
 
